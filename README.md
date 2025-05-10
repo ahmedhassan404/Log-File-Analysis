@@ -1,9 +1,9 @@
-# LogAnalysis
+# Log-File-Analysis
 
 This repository contains a log file analysis report for `access.log`, generated on May 10, 2025. It analyzes web server requests, failures, and patterns, with suggestions to improve performance and security.
 
 ## Contents
-- **Report**: PDF with detailed analysis (`docs/Log_Analysis_Report_2025-05-10.pdf`)
+- **Report**: PDF with detailed analysis (`docs/Log_Analysis_Report.pdf`)
 - **Script**: Bash script to analyze logs (`src/analyze_log.sh`)
 - **Data**: Placeholder for log files (`data/`)
 
